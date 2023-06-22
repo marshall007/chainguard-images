@@ -4,7 +4,7 @@ contents:
   repositories:
     - https://packages.wolfi.dev/os
   packages:
-    - hugo
+    - hugo-extended
 
 entrypoint:
   command: /usr/bin/hugo
